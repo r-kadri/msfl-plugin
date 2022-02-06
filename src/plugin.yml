@@ -1,0 +1,9 @@
+name: MSFLplugin
+version: 0
+author: Nadoxys
+main: fr.nadoxys.msflplugin.MSFLplugin
+api-version: 1.17
+commands:
+  border:
+    description: Augmenter la taille de la map !
+    usage: /border <upgrade>
